@@ -1,4 +1,4 @@
-const pokemonsLimit = 150;
+const pokemonsLimit = prompt("Enter the number of pokemon displayed");
 
 const colors = {
     fire: "#FDDFDF",
